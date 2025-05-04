@@ -1,4 +1,4 @@
-#Tokenização e Padding: Entendendo os Diferentes Métodos para NLP
+💻💻💻💻💻 Tokenização e Padding: Entendendo os Diferentes Métodos para NLP 🚀🚀🚀🚀🚀
 
 Você já ouviu falar em padding na tokenização de sequências? Se você trabalha com Processamento de Linguagem Natural (NLP), aprendizado de máquina ou inteligência artificial, esse conceito é essencial para garantir que seus modelos processem dados de texto de forma eficiente. Hoje, quero compartilhar um guia rápido e visual sobre os diferentes métodos de padding, inspirado por uma ilustração que encontrei recentemente.
 O que é Padding e por que ele é importante?
@@ -6,7 +6,8 @@ O que é Padding e por que ele é importante?
 Quando lidamos com texto em NLP, transformamos palavras ou tokens em números para que os modelos de machine learning possam processá-los. Esse processo é chamado de tokenização. No entanto, os modelos geralmente exigem que todas as sequências de entrada tenham o mesmo comprimento. É aí que entra o padding: ele adiciona valores "fictícios" (geralmente zeros) às sequências para uniformizar seu tamanho.
 
 Mas sabia que existem várias formas de aplicar o padding? Cada método tem suas vantagens e desvantagens, dependendo do caso de uso. Vamos explorar os principais tipos com base em uma tabela que ilustra essas diferenças.
-Os 7 Métodos de Padding na Tokenização
+
+✨✨✨✨Os 7 Métodos de Padding na Tokenização
 
 Aqui estão os métodos mais comuns, com suas características e aplicações:
 
@@ -32,7 +33,7 @@ Aqui estão os métodos mais comuns, com suas características e aplicações:
         Um método híbrido que "amplia" a sequência com padding esparso, ajustando dinamicamente o espaço entre tokens.
         Útil em tarefas experimentais ou quando se trabalha com sequências muito variáveis.
 
-Dense vs. Sparse: Qual escolher?
+🤝  Dense vs. Sparse: Qual escolher?
 
 A imagem também destaca a diferença entre padding dense (contínuo) e sparse (esparso):
 
