@@ -1,0 +1,1 @@
+# Tokeniza-o-e-Padding-Entendendo-os-Diferentes-M-todos-para-NLP
