@@ -1,4 +1,4 @@
-Tokenização e Padding: Entendendo os Diferentes Métodos para NLP
+#Tokenização e Padding: Entendendo os Diferentes Métodos para NLP
 
 Você já ouviu falar em padding na tokenização de sequências? Se você trabalha com Processamento de Linguagem Natural (NLP), aprendizado de máquina ou inteligência artificial, esse conceito é essencial para garantir que seus modelos processem dados de texto de forma eficiente. Hoje, quero compartilhar um guia rápido e visual sobre os diferentes métodos de padding, inspirado por uma ilustração que encontrei recentemente.
 O que é Padding e por que ele é importante?
